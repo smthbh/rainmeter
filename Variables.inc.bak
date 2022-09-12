@@ -1,0 +1,12 @@
+[Variables]
+Width=180
+BarHeight=30
+LineHeight=30
+SmallSeparator=15
+LargeSeparator=15
+Color1=101010
+Color2=5472d3ff
+ColorCpu=00e400
+FontColor=ffffffff
+FontFace=Segoe UI
+FontSize=10
